@@ -3,6 +3,7 @@ import java.math.BigDecimal;
 public class ExecutarTeste {
 	
 	public static void main(String[] args) {
+		
 		Produto produto1 = new Produto();
 		produto1.setId(1L);
 		produto1.setNome("Módulo Orientação Objeto");
